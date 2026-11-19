@@ -2,3 +2,4 @@ build/
 build-ucrt/
 .vscode/settings.json
 *.dll
+!SoulShift_Release/*.dll

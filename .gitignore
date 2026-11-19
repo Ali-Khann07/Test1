@@ -1,0 +1,4 @@
+build/
+build-ucrt/
+.vscode/settings.json
+*.dll

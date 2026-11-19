@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "MinGW",
+            "compilerPath": "C:/mingw64/bin/g++.exe",
+            "includePath": [
+                "${workspaceFolder}/SoulShift",
+                "C:/SFML-2.6.2/include"
+            ],
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
